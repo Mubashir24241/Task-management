@@ -1,11 +1,5 @@
-# dummy data
-pswrd bAyvXW1ciwmGTWSn
-string mongodb+srv://mubashirahmadcse2020:bAyvXW1ciwmGTWSn@ecommerce.o0vei.mongodb.net/?retryWrites=true&w=majority&appName=ecommerce
 
-
-
-
-# Task Management Application
+# Task Management Application by MUBASHIR
 Task Management is a full-stack application that helps you organize your responsibilities more easily, providing a user-friendly interface. The application was built using the MERN stack (MongoDB, Express.js, React.js, Node.js), as well as TailwindCSS and Redux Toolkit. 
 
 # How To Run
